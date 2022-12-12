@@ -1,0 +1,27 @@
+.Clearfix::after{
+    content:"";
+    display:block;
+    clear:both;
+}
+
+#main{
+    width:100%;
+    margin-bottom:10px;
+}
+
+.left {
+    float: left;
+    width: 45%;
+    text-align: left;
+  }
+  .middle{
+    float:left;
+    width:5%;
+    text-align:center;
+  }
+  .right {
+    float: right;
+    width: 45%;
+    text-align: right;
+  }
+
