@@ -32,7 +32,7 @@ public class ArrayDemo {
         }
         catch(Exception e) {
 
-            System.out.println("anArray[10] is defined");
+            System.out.println("anArray[10] is defined.");
 
         }
 
